@@ -1,6 +1,6 @@
 # Privacy Policy for messa-village
 
-**Effective Date: [Insert Date]**
+**Effective Date: May 27.2024**
 
 Welcome to messa-village, an open message board where users can leave messages and read other users' messages. We value your privacy and want to be transparent about the information we collect and how we use it. Please read this privacy policy carefully.
 
